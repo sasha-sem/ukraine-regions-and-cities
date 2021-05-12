@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="ukraine_cities" id="ukraine_cities">
+	<SimpleField name="name_ru" type="string"></SimpleField>
+	<SimpleField name="name_en" type="string"></SimpleField>
+	<SimpleField name="population" type="int"></SimpleField>
+	<SimpleField name="id" type="int"></SimpleField>
+	<SimpleField name="reg_id" type="int"></SimpleField>
+</Schema>
+<Folder><name>ukraine_cities</name>
+  <Placemark>
+	<name>Київ</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Киев</SimpleData>
+		<SimpleData name="name_en">Kyiv</SimpleData>
+		<SimpleData name="population">2909697</SimpleData>
+		<SimpleData name="id">1</SimpleData>
+		<SimpleData name="reg_id">14</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.5241361,50.4500336</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Чернігів</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Чернигов</SimpleData>
+		<SimpleData name="name_en">Chernihiv</SimpleData>
+		<SimpleData name="population">293969</SimpleData>
+		<SimpleData name="id">2</SimpleData>
+		<SimpleData name="reg_id">4</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.294332,51.494099</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Одеса</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Одесса</SimpleData>
+		<SimpleData name="name_en">Odesa</SimpleData>
+		<SimpleData name="population">1008852</SimpleData>
+		<SimpleData name="id">3</SimpleData>
+		<SimpleData name="reg_id">2</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>30.7392776,46.4873195</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Львів</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Львов</SimpleData>
+		<SimpleData name="name_en">Lviv</SimpleData>
+		<SimpleData name="population">724822</SimpleData>
+		<SimpleData name="id">4</SimpleData>
+		<SimpleData name="reg_id">21</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.0315921,49.841952</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Полтава</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Полтава</SimpleData>
+		<SimpleData name="name_en">Poltava</SimpleData>
+		<SimpleData name="population">297600</SimpleData>
+		<SimpleData name="id">5</SimpleData>
+		<SimpleData name="reg_id">12</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.5507948,49.5897423</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Запоріжжя</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Запорожье</SimpleData>
+		<SimpleData name="name_en">Zaporizhzhia</SimpleData>
+		<SimpleData name="population">772258</SimpleData>
+		<SimpleData name="id">6</SimpleData>
+		<SimpleData name="reg_id">6</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.1182867,47.8507859</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Донецьк</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Донецк</SimpleData>
+		<SimpleData name="name_en">Donetsk</SimpleData>
+		<SimpleData name="population">929063</SimpleData>
+		<SimpleData name="id">7</SimpleData>
+		<SimpleData name="reg_id">13</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>37.8013407,48.0158753</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Миколаїв</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Николаев</SimpleData>
+		<SimpleData name="name_en">Mykolaiv</SimpleData>
+		<SimpleData name="population">480080</SimpleData>
+		<SimpleData name="id">8</SimpleData>
+		<SimpleData name="reg_id">1</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>31.9861241,46.9748765</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Ужгород</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Ужгород</SimpleData>
+		<SimpleData name="name_en">Uzhhorod</SimpleData>
+		<SimpleData name="population">114867</SimpleData>
+		<SimpleData name="id">9</SimpleData>
+		<SimpleData name="reg_id">17</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>22.3022569,48.6223732</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Рівне</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Ровно</SimpleData>
+		<SimpleData name="name_en">Rivne</SimpleData>
+		<SimpleData name="population">245323</SimpleData>
+		<SimpleData name="id">10</SimpleData>
+		<SimpleData name="reg_id">3</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.2513165,50.6196175</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Луцьк</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Луцк</SimpleData>
+		<SimpleData name="name_en">Lutsk</SimpleData>
+		<SimpleData name="population">217502</SimpleData>
+		<SimpleData name="id">11</SimpleData>
+		<SimpleData name="reg_id">9</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.320078,50.7450733</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Вінниця</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Винница</SimpleData>
+		<SimpleData name="name_en">Vinnytsia</SimpleData>
+		<SimpleData name="population">373302</SimpleData>
+		<SimpleData name="id">12</SimpleData>
+		<SimpleData name="reg_id">11</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.467975,49.2320162</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Хмельницький</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Хмельницкий</SimpleData>
+		<SimpleData name="name_en">Khmelnytskyi</SimpleData>
+		<SimpleData name="population">269308</SimpleData>
+		<SimpleData name="id">13</SimpleData>
+		<SimpleData name="reg_id">18</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>26.9793793,49.4196404</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Житомир</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Житомир</SimpleData>
+		<SimpleData name="name_en">Zhytomyr</SimpleData>
+		<SimpleData name="population">267610</SimpleData>
+		<SimpleData name="id">14</SimpleData>
+		<SimpleData name="reg_id">19</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>28.6692345,50.2598298</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Луганськ</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Луганск</SimpleData>
+		<SimpleData name="name_en">Luhansk</SimpleData>
+		<SimpleData name="population">414509</SimpleData>
+		<SimpleData name="id">15</SimpleData>
+		<SimpleData name="reg_id">20</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>39.2973153,48.5717084</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Херсон</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Херсон</SimpleData>
+		<SimpleData name="name_en">Kherson</SimpleData>
+		<SimpleData name="population">294941</SimpleData>
+		<SimpleData name="id">16</SimpleData>
+		<SimpleData name="reg_id">15</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.625794,46.6412644</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Черкаси</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Черкассы</SimpleData>
+		<SimpleData name="name_en">Cherkasy</SimpleData>
+		<SimpleData name="population">274343</SimpleData>
+		<SimpleData name="id">17</SimpleData>
+		<SimpleData name="reg_id">7</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.0587805,49.4447888</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Суми</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Сумы</SimpleData>
+		<SimpleData name="name_en">Sumy</SimpleData>
+		<SimpleData name="population">267633</SimpleData>
+		<SimpleData name="id">18</SimpleData>
+		<SimpleData name="reg_id">24</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.798386,50.9070007</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Івано-Франківськ</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Ивано-Франковск</SimpleData>
+		<SimpleData name="name_en">Ivano-Frankivsk</SimpleData>
+		<SimpleData name="population">230929</SimpleData>
+		<SimpleData name="id">20</SimpleData>
+		<SimpleData name="reg_id">5</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>24.7103188,48.9225224</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Дніпро</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Днепр</SimpleData>
+		<SimpleData name="name_en">Dnipro</SimpleData>
+		<SimpleData name="population">983836</SimpleData>
+		<SimpleData name="id">21</SimpleData>
+		<SimpleData name="reg_id">8</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>35.0417711,48.4680221</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Чернівці</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Черновцы</SimpleData>
+		<SimpleData name="name_en">Chernivtsi</SimpleData>
+		<SimpleData name="population">266650</SimpleData>
+		<SimpleData name="id">22</SimpleData>
+		<SimpleData name="reg_id">25</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.9376532,48.2864702</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Тернопіль</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Тернополь</SimpleData>
+		<SimpleData name="name_en">Ternopil</SimpleData>
+		<SimpleData name="population">217326</SimpleData>
+		<SimpleData name="id">23</SimpleData>
+		<SimpleData name="reg_id">10</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>25.591886,49.5557716</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Харків</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Харьков</SimpleData>
+		<SimpleData name="name_en">Kharkiv</SimpleData>
+		<SimpleData name="population">1447652</SimpleData>
+		<SimpleData name="id">24</SimpleData>
+		<SimpleData name="reg_id">23</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>36.2303893,49.9902794</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Кропивницький</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Кропивницкий</SimpleData>
+		<SimpleData name="name_en">Kropyvnytskyi</SimpleData>
+		<SimpleData name="population">234712</SimpleData>
+		<SimpleData name="id">25</SimpleData>
+		<SimpleData name="reg_id">16</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>32.2656283,48.5105805</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Симферополь</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Симферополь</SimpleData>
+		<SimpleData name="name_en">Simferopol</SimpleData>
+		<SimpleData name="population">341799</SimpleData>
+		<SimpleData name="id">26</SimpleData>
+		<SimpleData name="reg_id">26</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>34.1024858,44.9521457</coordinates></Point>
+  </Placemark>
+  <Placemark>
+	<name>Севастополь</name>
+	<ExtendedData><SchemaData schemaUrl="#ukraine_cities">
+		<SimpleData name="name_ru">Севастополь</SimpleData>
+		<SimpleData name="name_en">Sevastopol</SimpleData>
+		<SimpleData name="population">416283</SimpleData>
+		<SimpleData name="id">27</SimpleData>
+		<SimpleData name="reg_id">27</SimpleData>
+	</SchemaData></ExtendedData>
+      <Point><coordinates>33.5220842,44.6054434</coordinates></Point>
+  </Placemark>
+</Folder>
+</Document></kml>
